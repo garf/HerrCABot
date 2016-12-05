@@ -3,5 +3,5 @@
 ## Installation
 
 - Clone repository
-- Run `gradlew build`
+- Run `./gradlew build`
 - Done
